@@ -31,7 +31,7 @@ Ensure you have the following installed on your system:
 ### Steps to Run Locally
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/jobby-app.git
+   git clone https://github.com/Viishhnur/JobbyApp.git
    ```
 2. Navigate to the project directory:
    ```sh
